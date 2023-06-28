@@ -1,0 +1,51 @@
+p,
+li,
+h4 {
+  color: #515057;
+  font-size: 15px;
+  text-align: justify;
+  font-family: "Arial";
+  line-height: 1.5;
+}
+
+h3 {
+  color: #515057;
+  font-size: 20px;
+  font-family: "Arial";
+}
+
+h1 {
+  color: #515057;
+  font-size: 30px;
+  font-family: "Arial";
+}
+
+div {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+a:link {
+    color: #7463BA;
+    text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+    color: #7463BA;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: #7463BA;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #7463BA;
+    text-decoration: underline;
+}   
